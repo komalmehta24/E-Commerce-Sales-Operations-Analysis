@@ -1,0 +1,301 @@
+order_id,customer_id,order_date,order_status,payment_method
+1,33,2025-06-07,Returned,Debit Card
+2,43,2025-02-06,Returned,Credit Card
+3,44,2025-02-05,Completed,Debit Card
+4,87,2025-03-06,Completed,UPI
+5,4,2025-05-10,Cancelled,UPI
+6,5,2025-07-23,Completed,Cash on Delivery
+7,62,2025-03-23,Cancelled,Credit Card
+8,57,2024-12-31,Returned,Cash on Delivery
+9,31,2024-12-15,Completed,Debit Card
+10,95,2025-09-09,Returned,Cash on Delivery
+11,35,2025-07-17,Completed,Cash on Delivery
+12,38,2025-10-08,Returned,Cash on Delivery
+13,86,2025-01-01,Returned,Cash on Delivery
+14,52,2025-10-23,Cancelled,UPI
+15,63,2025-06-07,Completed,Debit Card
+16,25,2025-06-09,Completed,UPI
+17,35,2025-08-21,Completed,UPI
+18,98,2025-11-02,Completed,UPI
+19,1,2025-07-05,Cancelled,Debit Card
+20,75,2025-03-26,Returned,Cash on Delivery
+21,93,2025-06-24,Returned,UPI
+22,36,2025-06-01,Cancelled,Cash on Delivery
+23,4,2025-04-24,Completed,Debit Card
+24,3,2025-11-05,Completed,UPI
+25,58,2025-08-25,Cancelled,Credit Card
+26,71,2025-07-22,Completed,UPI
+27,45,2025-10-15,Completed,UPI
+28,12,2025-11-20,Completed,Credit Card
+29,24,2025-05-22,Completed,UPI
+30,70,2025-08-02,Cancelled,Credit Card
+31,43,2025-12-02,Cancelled,Debit Card
+32,23,2024-12-02,Cancelled,Debit Card
+33,83,2025-07-02,Returned,Debit Card
+34,61,2025-04-11,Completed,Cash on Delivery
+35,65,2024-12-08,Cancelled,UPI
+36,22,2025-10-11,Cancelled,UPI
+37,28,2025-03-05,Returned,Debit Card
+38,10,2025-07-07,Returned,Credit Card
+39,100,2025-01-12,Completed,Credit Card
+40,58,2025-01-03,Completed,Debit Card
+41,64,2025-06-17,Returned,Cash on Delivery
+42,75,2025-04-30,Cancelled,Debit Card
+43,1,2025-02-18,Cancelled,UPI
+44,73,2025-08-28,Completed,Credit Card
+45,80,2025-07-12,Returned,Debit Card
+46,40,2025-04-09,Returned,Credit Card
+47,67,2024-12-17,Completed,Credit Card
+48,40,2025-11-10,Returned,Credit Card
+49,22,2025-09-07,Completed,Debit Card
+50,74,2025-03-21,Cancelled,Credit Card
+51,90,2025-07-12,Returned,UPI
+52,39,2025-02-27,Cancelled,UPI
+53,81,2025-08-04,Returned,Credit Card
+54,22,2025-03-22,Cancelled,Cash on Delivery
+55,19,2025-03-02,Cancelled,Debit Card
+56,3,2025-06-17,Completed,Credit Card
+57,59,2025-02-20,Cancelled,Debit Card
+58,10,2025-06-13,Cancelled,Credit Card
+59,69,2025-09-26,Cancelled,Cash on Delivery
+60,90,2025-06-25,Cancelled,Credit Card
+61,95,2024-12-05,Completed,Debit Card
+62,75,2025-05-18,Cancelled,Debit Card
+63,32,2024-12-20,Cancelled,Debit Card
+64,84,2025-02-22,Cancelled,Debit Card
+65,79,2024-12-25,Completed,Credit Card
+66,5,2025-04-29,Cancelled,Cash on Delivery
+67,83,2025-08-20,Returned,Cash on Delivery
+68,67,2024-12-23,Cancelled,Cash on Delivery
+69,75,2025-07-22,Completed,Cash on Delivery
+70,67,2024-12-05,Cancelled,UPI
+71,31,2024-12-31,Returned,UPI
+72,91,2025-02-13,Completed,Debit Card
+73,72,2025-02-27,Returned,Debit Card
+74,73,2025-06-02,Returned,UPI
+75,94,2025-11-17,Returned,Debit Card
+76,34,2024-12-21,Cancelled,UPI
+77,8,2025-05-12,Cancelled,Debit Card
+78,49,2025-02-02,Cancelled,Credit Card
+79,76,2025-06-07,Cancelled,UPI
+80,36,2025-10-19,Cancelled,UPI
+81,23,2025-06-28,Completed,Cash on Delivery
+82,39,2025-01-11,Completed,Debit Card
+83,87,2025-08-23,Completed,Cash on Delivery
+84,28,2025-04-28,Cancelled,Cash on Delivery
+85,62,2025-07-14,Returned,Debit Card
+86,19,2025-06-03,Returned,UPI
+87,1,2025-04-27,Returned,UPI
+88,22,2025-07-26,Cancelled,Debit Card
+89,35,2025-01-19,Completed,Credit Card
+90,24,2025-11-19,Cancelled,Debit Card
+91,41,2025-05-09,Cancelled,Debit Card
+92,95,2025-10-01,Returned,UPI
+93,46,2025-04-20,Returned,Debit Card
+94,12,2025-06-29,Cancelled,Credit Card
+95,20,2025-04-26,Cancelled,Cash on Delivery
+96,46,2025-10-26,Completed,Credit Card
+97,50,2025-03-02,Completed,Debit Card
+98,99,2025-03-03,Completed,Cash on Delivery
+99,39,2025-01-30,Completed,UPI
+100,2,2025-11-17,Completed,Cash on Delivery
+101,28,2024-12-30,Completed,Debit Card
+102,21,2025-09-25,Returned,Cash on Delivery
+103,48,2025-03-06,Cancelled,UPI
+104,43,2025-09-28,Completed,Cash on Delivery
+105,54,2025-09-27,Completed,Debit Card
+106,84,2025-05-26,Returned,Cash on Delivery
+107,75,2025-10-30,Completed,Credit Card
+108,64,2025-01-24,Cancelled,Credit Card
+109,18,2025-08-26,Completed,Cash on Delivery
+110,32,2025-01-02,Returned,Debit Card
+111,82,2025-01-27,Cancelled,Debit Card
+112,25,2025-02-04,Returned,Cash on Delivery
+113,2,2025-01-26,Completed,Debit Card
+114,8,2025-05-26,Completed,Cash on Delivery
+115,44,2025-07-04,Returned,Cash on Delivery
+116,68,2025-04-15,Returned,Cash on Delivery
+117,70,2025-10-20,Completed,UPI
+118,55,2025-09-09,Completed,UPI
+119,85,2025-05-17,Cancelled,Debit Card
+120,94,2025-08-21,Cancelled,UPI
+121,45,2025-02-25,Completed,Credit Card
+122,74,2025-11-07,Returned,UPI
+123,91,2025-09-12,Completed,Credit Card
+124,91,2025-11-03,Returned,Debit Card
+125,45,2025-02-28,Completed,Credit Card
+126,81,2025-04-30,Cancelled,UPI
+127,58,2025-09-22,Completed,Debit Card
+128,59,2025-02-14,Returned,Debit Card
+129,10,2025-09-07,Cancelled,UPI
+130,92,2025-06-24,Cancelled,Debit Card
+131,92,2025-07-09,Returned,Debit Card
+132,12,2025-02-12,Completed,Credit Card
+133,28,2025-11-30,Completed,Credit Card
+134,69,2025-07-30,Returned,Credit Card
+135,30,2025-08-17,Completed,Debit Card
+136,4,2025-07-26,Cancelled,UPI
+137,79,2025-01-01,Completed,UPI
+138,3,2025-04-02,Completed,Credit Card
+139,53,2025-05-04,Returned,Cash on Delivery
+140,90,2025-06-02,Completed,Credit Card
+141,60,2025-05-20,Returned,Debit Card
+142,70,2025-01-17,Returned,Credit Card
+143,54,2025-09-16,Cancelled,Credit Card
+144,73,2024-12-24,Completed,UPI
+145,72,2025-10-21,Cancelled,UPI
+146,61,2025-02-22,Cancelled,UPI
+147,76,2025-04-12,Cancelled,Cash on Delivery
+148,36,2025-07-05,Cancelled,Credit Card
+149,73,2025-03-18,Returned,Debit Card
+150,82,2025-05-12,Completed,UPI
+151,41,2024-12-19,Cancelled,Cash on Delivery
+152,62,2025-07-08,Returned,Credit Card
+153,84,2025-09-25,Cancelled,Credit Card
+154,41,2025-06-18,Returned,UPI
+155,21,2024-12-31,Completed,Credit Card
+156,63,2025-07-20,Completed,Credit Card
+157,65,2025-09-08,Completed,Debit Card
+158,54,2025-07-19,Returned,Debit Card
+159,7,2025-04-01,Cancelled,Cash on Delivery
+160,49,2025-03-23,Completed,UPI
+161,2,2025-10-01,Returned,Cash on Delivery
+162,12,2025-11-26,Cancelled,Cash on Delivery
+163,39,2025-04-06,Cancelled,Credit Card
+164,79,2025-06-17,Cancelled,UPI
+165,67,2025-02-19,Cancelled,Debit Card
+166,57,2024-12-07,Cancelled,Debit Card
+167,26,2025-09-23,Cancelled,Cash on Delivery
+168,85,2025-11-02,Returned,UPI
+169,29,2025-11-19,Completed,Debit Card
+170,71,2025-02-06,Cancelled,UPI
+171,100,2025-11-09,Returned,Credit Card
+172,57,2025-12-02,Completed,Credit Card
+173,45,2025-07-30,Completed,Credit Card
+174,60,2025-06-20,Cancelled,UPI
+175,15,2025-10-27,Returned,Cash on Delivery
+176,1,2024-12-24,Returned,UPI
+177,46,2025-09-21,Cancelled,UPI
+178,49,2025-05-02,Completed,Credit Card
+179,40,2025-01-25,Completed,Cash on Delivery
+180,44,2025-10-26,Completed,Cash on Delivery
+181,45,2025-01-22,Completed,Credit Card
+182,8,2025-11-09,Returned,UPI
+183,97,2025-10-17,Cancelled,UPI
+184,65,2025-07-16,Returned,Credit Card
+185,61,2025-07-08,Cancelled,UPI
+186,42,2025-08-21,Cancelled,Debit Card
+187,89,2025-10-08,Returned,Credit Card
+188,22,2025-02-01,Cancelled,Cash on Delivery
+189,26,2025-07-16,Cancelled,Credit Card
+190,16,2025-10-15,Returned,Debit Card
+191,42,2025-11-23,Returned,UPI
+192,94,2025-02-12,Completed,Credit Card
+193,26,2025-02-05,Completed,Debit Card
+194,58,2025-09-16,Returned,UPI
+195,50,2025-07-27,Completed,Credit Card
+196,81,2025-10-24,Cancelled,Credit Card
+197,63,2024-12-22,Cancelled,Debit Card
+198,60,2025-04-30,Returned,Credit Card
+199,56,2025-09-20,Completed,UPI
+200,10,2025-01-28,Cancelled,Debit Card
+201,100,2024-12-26,Completed,Debit Card
+202,56,2025-01-13,Returned,Credit Card
+203,87,2025-03-15,Cancelled,Cash on Delivery
+204,6,2025-06-29,Cancelled,Credit Card
+205,2,2025-06-05,Returned,Credit Card
+206,18,2025-07-29,Completed,UPI
+207,72,2025-11-23,Returned,Cash on Delivery
+208,3,2025-08-16,Completed,Debit Card
+209,38,2025-07-15,Cancelled,UPI
+210,80,2025-11-22,Cancelled,Credit Card
+211,81,2025-10-27,Completed,UPI
+212,94,2025-05-07,Cancelled,UPI
+213,26,2025-10-20,Cancelled,UPI
+214,68,2025-03-02,Completed,Debit Card
+215,47,2024-12-10,Completed,Debit Card
+216,18,2025-03-08,Cancelled,UPI
+217,2,2025-03-18,Completed,UPI
+218,5,2025-09-16,Cancelled,Credit Card
+219,38,2025-09-29,Completed,Debit Card
+220,42,2025-10-09,Cancelled,Debit Card
+221,1,2025-01-28,Completed,Debit Card
+222,3,2025-03-19,Cancelled,UPI
+223,20,2025-07-01,Cancelled,Debit Card
+224,7,2025-10-30,Cancelled,Credit Card
+225,52,2025-09-02,Cancelled,Credit Card
+226,23,2025-10-11,Returned,Credit Card
+227,31,2025-11-29,Returned,Cash on Delivery
+228,38,2025-03-20,Returned,Credit Card
+229,41,2025-11-14,Returned,Cash on Delivery
+230,76,2025-05-05,Completed,Cash on Delivery
+231,55,2025-08-19,Returned,Credit Card
+232,95,2025-03-21,Returned,Credit Card
+233,8,2025-01-14,Returned,Cash on Delivery
+234,88,2025-03-28,Cancelled,Cash on Delivery
+235,2,2025-05-18,Returned,UPI
+236,61,2025-05-10,Cancelled,Cash on Delivery
+237,38,2025-06-21,Completed,Cash on Delivery
+238,11,2024-12-12,Cancelled,UPI
+239,79,2025-11-28,Returned,Cash on Delivery
+240,65,2025-07-03,Returned,Debit Card
+241,36,2025-06-09,Returned,Debit Card
+242,66,2025-04-10,Returned,UPI
+243,95,2025-01-15,Completed,UPI
+244,68,2025-07-29,Cancelled,Credit Card
+245,67,2025-11-05,Returned,Cash on Delivery
+246,15,2025-05-18,Returned,Debit Card
+247,27,2025-01-15,Returned,Credit Card
+248,92,2025-02-09,Completed,Credit Card
+249,25,2025-05-15,Cancelled,UPI
+250,98,2025-09-08,Completed,Credit Card
+251,57,2025-08-02,Cancelled,Debit Card
+252,51,2025-07-22,Returned,Cash on Delivery
+253,9,2025-08-28,Cancelled,Credit Card
+254,73,2025-01-25,Cancelled,Debit Card
+255,5,2025-09-09,Cancelled,Credit Card
+256,66,2025-08-26,Completed,Debit Card
+257,28,2025-03-30,Cancelled,Credit Card
+258,88,2025-06-19,Cancelled,UPI
+259,82,2025-10-29,Completed,UPI
+260,93,2025-01-31,Completed,Credit Card
+261,27,2025-08-26,Cancelled,Cash on Delivery
+262,54,2025-01-28,Cancelled,Cash on Delivery
+263,11,2025-03-07,Cancelled,Credit Card
+264,7,2025-05-11,Completed,Debit Card
+265,40,2024-12-10,Returned,Cash on Delivery
+266,72,2025-09-21,Completed,Debit Card
+267,85,2024-12-10,Returned,Debit Card
+268,61,2025-11-02,Returned,Cash on Delivery
+269,40,2025-01-31,Cancelled,Cash on Delivery
+270,58,2025-03-22,Cancelled,UPI
+271,29,2025-06-18,Cancelled,UPI
+272,84,2025-04-20,Returned,UPI
+273,46,2025-08-07,Cancelled,Debit Card
+274,33,2025-05-11,Cancelled,Credit Card
+275,21,2025-11-02,Returned,Cash on Delivery
+276,18,2025-11-22,Completed,Credit Card
+277,66,2025-11-28,Completed,Cash on Delivery
+278,77,2025-06-15,Cancelled,UPI
+279,30,2025-08-29,Returned,Cash on Delivery
+280,95,2025-01-03,Returned,Credit Card
+281,11,2025-02-23,Cancelled,Cash on Delivery
+282,20,2025-10-31,Returned,UPI
+283,75,2024-12-31,Completed,UPI
+284,9,2024-12-23,Completed,UPI
+285,71,2025-07-24,Completed,UPI
+286,49,2024-12-06,Cancelled,UPI
+287,78,2025-07-20,Cancelled,Debit Card
+288,96,2025-01-14,Returned,Cash on Delivery
+289,41,2025-04-01,Cancelled,Credit Card
+290,80,2025-04-18,Returned,UPI
+291,19,2025-06-03,Completed,UPI
+292,21,2024-12-31,Cancelled,Debit Card
+293,26,2025-01-26,Cancelled,UPI
+294,63,2024-12-09,Cancelled,Cash on Delivery
+295,31,2025-08-07,Cancelled,Cash on Delivery
+296,85,2025-10-28,Returned,Debit Card
+297,20,2025-11-20,Returned,UPI
+298,58,2025-09-10,Completed,Debit Card
+299,15,2025-10-23,Cancelled,Credit Card
+300,30,2025-11-01,Completed,Credit Card

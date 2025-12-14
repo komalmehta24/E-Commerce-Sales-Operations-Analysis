@@ -1,0 +1,51 @@
+product_id,product_name,category,price,supplier_id
+1,Skill,Clothing,27.59,2
+2,Direction,Books,321.14,14
+3,Outside,Books,346.86,15
+4,Position,Sports,276.16,20
+5,Mission,Electronics,341.76,14
+6,Brother,Electronics,141.52,15
+7,Glass,Electronics,207.89,6
+8,Generation,Sports,143.7,5
+9,Computer,Sports,271.67,13
+10,Seek,Sports,190.75,1
+11,Require,Clothing,432.63,10
+12,Want,Electronics,406.72,5
+13,Outside,Electronics,322.96,4
+14,Look,Sports,177.26,4
+15,Current,Clothing,453.42,3
+16,Somebody,Sports,210.59,17
+17,Anyone,Books,149.18,20
+18,Both,Clothing,188.53,9
+19,Choose,Electronics,349.73,4
+20,Teacher,Books,234.51,15
+21,Exist,Home & Kitchen,183.59,5
+22,Plan,Books,195.88,12
+23,Threat,Home & Kitchen,303.75,5
+24,Sell,Electronics,420.58,9
+25,Class,Electronics,390.29,11
+26,Think,Clothing,376.45,2
+27,Include,Clothing,398.11,13
+28,But,Clothing,384.24,20
+29,Agent,Clothing,342.65,1
+30,End,Electronics,235.95,7
+31,Want,Books,293.99,5
+32,Understand,Home & Kitchen,219.4,6
+33,Southern,Books,492.42,16
+34,When,Clothing,495.28,20
+35,Movement,Electronics,308.98,1
+36,Property,Books,463.91,12
+37,Strong,Home & Kitchen,124.28,14
+38,Test,Sports,14.84,15
+39,Win,Home & Kitchen,127.03,14
+40,Morning,Home & Kitchen,422.15,2
+41,Name,Books,113.02,7
+42,Standard,Electronics,86.53,13
+43,Buy,Books,184.6,9
+44,Level,Home & Kitchen,438.71,11
+45,Deep,Books,203.3,6
+46,Total,Clothing,489.61,19
+47,Less,Books,458.57,17
+48,The,Home & Kitchen,415.14,4
+49,Remember,Electronics,425.81,14
+50,Project,Electronics,96.66,13
